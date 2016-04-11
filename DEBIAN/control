@@ -1,0 +1,10 @@
+Package: oxygen-cursor-theme-duzeru
+Version: 1.0.0
+Architecture: all
+Maintainer: Claudio A. Silva <claudiosilva@duzeru.org>
+Original-Maintainer: Sune Vuorela <debian@pusling.com>
+Installed-Size: 1398
+Section: x11
+Priority: optional
+Description: Oxygen Mouse Cursor Theme - Extra Colors
+ This package contains the Oxygen cursor theme,  originally created for KDE 4.
